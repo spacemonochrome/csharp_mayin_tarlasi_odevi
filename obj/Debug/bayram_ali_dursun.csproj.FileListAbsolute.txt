@@ -1,0 +1,11 @@
+C:\Users\hasan\Desktop\bayram_ali_dursun\bin\Debug\bayram_ali_dursun.exe.config
+C:\Users\hasan\Desktop\bayram_ali_dursun\bin\Debug\bayram_ali_dursun.exe
+C:\Users\hasan\Desktop\bayram_ali_dursun\bin\Debug\bayram_ali_dursun.pdb
+C:\Users\hasan\Desktop\bayram_ali_dursun\obj\Debug\bayram_ali_dursun.csproj.AssemblyReference.cache
+C:\Users\hasan\Desktop\bayram_ali_dursun\obj\Debug\bayram_ali_dursun.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan\Desktop\bayram_ali_dursun\obj\Debug\bayram_ali_dursun.Form1.resources
+C:\Users\hasan\Desktop\bayram_ali_dursun\obj\Debug\bayram_ali_dursun.Properties.Resources.resources
+C:\Users\hasan\Desktop\bayram_ali_dursun\obj\Debug\bayram_ali_dursun.csproj.GenerateResource.cache
+C:\Users\hasan\Desktop\bayram_ali_dursun\obj\Debug\bayram_ali_dursun.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\bayram_ali_dursun\obj\Debug\bayram_ali_dursun.exe
+C:\Users\hasan\Desktop\bayram_ali_dursun\obj\Debug\bayram_ali_dursun.pdb
